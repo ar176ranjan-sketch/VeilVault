@@ -55,7 +55,7 @@ All of this is proven without revealing any of the private inputs.
 - **App:** [https://veil-vault-azure.vercel.app/](https://veil-vault-azure.vercel.app/)
 - **Contract (Preprod):** `mn_addr_preprod1fjw64hh5veuayhl782sxggpq8jfp0vq0zvv3cvz94nv7cnzu9clqp3zk9e`
 - **Explorer:** [Midnight Explorer Link](https://preprod.midnightexplorer.com/contracts/mn_addr_preprod1fjw64hh5veuayhl782sxggpq8jfp0vq0zvv3cvz94nv7cnzu9clqp3zk9e)
-- **Demo Video:** _(Link coming soon)_
+- **Demo Video:** [Watch the Walkthrough](https://drive.google.com/file/d/1zqmCSeHxjSPaNMiAg7T-kXb_uI3gt4Ok/view?usp=drive_link)
 
 ## 📸 Screenshots
 
