@@ -59,11 +59,10 @@ All of this is proven without revealing any of the private inputs.
 
 ## 📸 Screenshots
 
-| Home | Features |
-|:---:|:---:|
-| ![Home](docs/assets/home.png) | ![Features](docs/assets/features.png) |
-| **Vote** | **Results** |
-| ![Vote](docs/assets/vote.png) | ![Results](docs/assets/results.png) |
+![Home](docs/assets/home.png)
+![Features](docs/assets/features.png)
+![Vote](docs/assets/vote.png)
+![Results](docs/assets/results.png)
 
 ---
 
@@ -223,32 +222,7 @@ The `.github/workflows/ci.yaml` pipeline runs on every push to `main`:
 
 ---
 
-## 📋 Submission Checklist
 
-### Level 1 — New Moon ✅
-- [x] Compact compiler installed and working (`compact --version`)
-- [x] Contract with ledger state, witnesses, constructor, and export circuits using `disclose()`
-- [x] `yarn compile` succeeds (generates `contracts/managed/`)
-- [x] Docker compose for local network
-- [x] Contract deployed to Preprod/Preview
-- [x] README with product idea and setup instructions
-- [x] Explanation of public state vs private witnesses (see Privacy Model above)
-- [x] 5+ meaningful commits
-
-### Level 2 — Waxing Crescent ✅
-- [x] React + Vite frontend with `vite-plugin-wasm` + `vite-plugin-top-level-await`
-- [x] Managed assets in `frontend/src/managed/` and `frontend/public/managed/`
-- [x] `WalletContext.tsx` polling for `window.midnight['1am']`, `mnLace`, `nightly`
-- [x] `wallet.connect('preprod')` and `createConnectedSession()` implemented
-- [x] `cast_vote` circuit callable from the VotePage
-- [x] Observable privacy: votes are counted without revealing individual choices
-- [x] 8+ meaningful commits
-
-### Level 3 — First Quarter ✅
-- [x] 4 passing tests (deploy, valid vote, double-vote rejection, admin update)
-- [x] CI/CD pipeline (`.github/workflows/ci.yaml`)
-- [x] Privacy model documented in README
-- [x] 10+ meaningful commits
 
 ---
 
