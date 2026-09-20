@@ -52,10 +52,10 @@ All of this is proven without revealing any of the private inputs.
 
 ## 🚀 Live Demo
 
-- **App:** _Deploy to Vercel — see instructions below_
-- **Contract (Preprod):** _Deploy via Admin page and update this README_
-- **Explorer:** `https://preprod.midnightexplorer.com/contracts/YOUR_ADDRESS`
-
+- **App:** [https://veil-vault-azure.vercel.app/](https://veil-vault-azure.vercel.app/)
+- **Contract (Preprod):** `mn_addr_preprod1fjw64hh5veuayhl782sxggpq8jfp0vq0zvv3cvz94nv7cnzu9clqp3zk9e`
+- **Explorer:** [Midnight Explorer Link](https://preprod.midnightexplorer.com/contracts/mn_addr_preprod1fjw64hh5veuayhl782sxggpq8jfp0vq0zvv3cvz94nv7cnzu9clqp3zk9e)
+- **Demo Video:** _(Link coming soon)_
 ---
 
 ## 🛠️ Setup
