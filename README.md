@@ -56,6 +56,15 @@ All of this is proven without revealing any of the private inputs.
 - **Contract (Preprod):** `mn_addr_preprod1fjw64hh5veuayhl782sxggpq8jfp0vq0zvv3cvz94nv7cnzu9clqp3zk9e`
 - **Explorer:** [Midnight Explorer Link](https://preprod.midnightexplorer.com/contracts/mn_addr_preprod1fjw64hh5veuayhl782sxggpq8jfp0vq0zvv3cvz94nv7cnzu9clqp3zk9e)
 - **Demo Video:** _(Link coming soon)_
+
+## 📸 Screenshots
+
+| Home | Features |
+|:---:|:---:|
+| ![Home](docs/assets/home.png) | ![Features](docs/assets/features.png) |
+| **Vote** | **Results** |
+| ![Vote](docs/assets/vote.png) | ![Results](docs/assets/results.png) |
+
 ---
 
 ## 🛠️ Setup
